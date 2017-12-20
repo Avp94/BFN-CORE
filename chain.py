@@ -67,6 +67,6 @@ def main():
     print "elapsed time: %s" % (datetime.datetime.now() - start)
 if __name__ == "__main__" or __name__ == "__builtin__": # this line is needed for executing the script from the CORE-GUI
     main()
-    main()
+    
 
 
